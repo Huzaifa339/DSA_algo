@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
+// https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
 
 class GFG
 {
